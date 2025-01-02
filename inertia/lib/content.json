@@ -1,0 +1,247 @@
+{
+  "about": {
+    "me": [
+      "Passionné par le développement web, j'ai récemment fait le grand saut pour transformer ma passion en carrière. Basé à Lille, je me consacre à créer des experiences web innovantes et intuitives.",
+      "Besoin d'une application web modulaire, évolutive et facile à maintenir ? Contactez-moi pour créer une solution adaptable à vos besoins changeants."
+    ],
+    "mascotte": [
+      "Permettez-moi de vous présenter Techzacoatl, ma mascotte inspirée de la culture maya. Symbolisant l'innovation et la sagesse, Techzacoatl m'accompagne dans la création de solutions web modernes et adaptables. Tout comme les Mayas ont su allier créativité et technique pour bâtir des civilisations durables, je m'efforce de concevoir des sites web modulaires qui répondent aux besoins changeants des utilisateurs.",
+      "Techzacoatl est plus qu'une simple mascotte. il est mon assistant virtuel dans le développement. Il incarne l'esprit d'adaptation et de progrès, m'inspirant à explorer de nouvelles technologies et à intégrer des fonctionnalités innovantes. Avec lui à mes côtés, je vise à créer des projets aussi solides et intemporels que les structures emblématiques des anciens Mayas."
+    ]
+  },
+  "cookies": {
+    "heading": {
+      "title": "Politique de cookies",
+      "content": "Nous utilisons des cookies pour améliorer votre expérience sur https://wdrancourt.fr. Cette politique de cookies fait partie de la politique de confidentialité de Wdrancourt.fr et couvre l'utilisation des cookies entre votre appareil et notre site. Nous fournissons également des informations de base sur les services tiers que nous pouvons utiliser, qui peuvent également utiliser des cookies dans le cadre de leur service, bien qu'ils ne soient pas couverts par notre politique. Si vous ne souhaitez pas accepter les cookies de notre part, vous devez demander à votre navigateur de refuser les cookies de https://wdrancourt.fr, en comprenant que nous pourrions ne pas être en mesure de vous fournir certains contenus et services souhaités."
+    },
+    "sections": [
+      {
+        "title": "Qu'est-ce qu'un cookie ?",
+        "content": [
+          {
+            "subtitle": "",
+            "text": "Un cookie est une petite quantité de données qu'un site web stocke sur votre appareil lorsque vous le visitez, contenant généralement des informations sur le site lui-même, un identifiant unique permettant au site de reconnaître votre navigateur web lorsque vous revenez, des données supplémentaires servant l'objectif du cookie, et la durée de vie du cookie lui-même. Les cookies sont utilisés pour activer certaines fonctionnalités (par exemple, la connexion), pour suivre l'utilisation du site (par exemple, les analyses), pour stocker vos paramètres utilisateur (par exemple, le fuseau horaire, les préférences de notification), et pour personnaliser votre contenu (par exemple, la publicité, la langue). Les cookies définis par le site web que vous visitez sont généralement appelés \"cookies first-party\" et ne suivent généralement que votre activité sur ce site particulier. Les cookies définis par d'autres sites et entreprises (c'est-à-dire des tiers) sont appelés \"cookies third-party\" et peuvent être utilisés pour vous suivre sur d'autres sites web qui utilisent le même service tiers."
+          }
+        ]
+      },
+      {
+        "title": "Types de cookies et comment nous les utilisons :",
+        "content": [
+          {
+            "subtitle": "Cookies essentiels",
+            "text": "Les cookies essentiels sont cruciaux pour votre expérience d'un site web, permettant des fonctionnalités de base comme les connexions d'utilisateurs, la gestion de compte, les paniers d'achat et le traitement des paiements. Nous utilisons des cookies essentiels pour activer certaines fonctions sur notre site web."
+          },
+          {
+            "subtitle": "Cookies de performance",
+            "text": "Les cookies de performance sont utilisés pour suivre votre utilisation d'un site web pendant votre visite, sans collecter d'informations personnelles sur vous. Généralement, ces informations sont anonymes et agrégées avec les informations suivies de tous les utilisateurs du site, pour aider les entreprises à comprendre les modèles d'utilisation des visiteurs, identifier et diagnostiquer les problèmes ou erreurs que leurs utilisateurs pourraient rencontrer, et prendre de meilleures décisions stratégiques pour améliorer l'expérience globale du site web pour leur audience. Ces cookies peuvent être définis par le site web que vous visitez (first-party) ou par des services tiers. Nous utilisons des cookies de performance sur notre site."
+          },
+          {
+            "subtitle": "Cookies de fonctionnalité",
+            "text": "Les cookies de fonctionnalité sont utilisés pour collecter des informations sur votre appareil et les paramètres que vous pouvez configurer sur le site web que vous visitez (comme les paramètres de langue et de fuseau horaire). Avec ces informations, les sites web peuvent vous fournir du contenu et des services personnalisés, améliorés ou optimisés. Ces cookies peuvent être définis par le site web que vous visitez (first-party) ou par un service tiers. Nous utilisons des cookies de fonctionnalité pour certaines fonctionnalités sélectionnées sur notre site."
+          },
+          {
+            "subtitle": "Cookies de ciblage/publicité",
+            "text": "Les cookies de ciblage/publicité sont utilisés pour déterminer quel contenu promotionnel est plus pertinent et approprié pour vous et vos intérêts. Les sites web peuvent les utiliser pour diffuser de la publicité ciblée ou pour limiter le nombre de fois que vous voyez une publicité. Cela aide les entreprises à améliorer l'efficacité de leurs campagnes et la qualité du contenu qui vous est présenté. Ces cookies peuvent être définis par le site web que vous visitez (first-party) ou par des services tiers. Les cookies de ciblage/publicité définis par des tiers peuvent être utilisés pour vous suivre sur d'autres sites web qui utilisent le même service tiers. Nous n'utilisons pas de cookies de ciblage/publicité sur notre site."
+          },
+          {
+            "subtitle": "Cookies tiers sur notre site",
+            "text": "Nous pouvons employer des entreprises et des individus tiers sur nos sites web - par exemple, des fournisseurs d'analyses et des partenaires de contenu. Nous accordons à ces tiers l'accès à des informations sélectionnées pour effectuer des tâches spécifiques en notre nom. Ils peuvent également définir des cookies tiers afin de fournir les services qu'ils proposent. Les cookies tiers peuvent être utilisés pour vous suivre sur d'autres sites web qui utilisent le même service tiers. Comme nous n'avons aucun contrôle sur les cookies tiers, ils ne sont pas couverts par la politique de cookies de Wdrancourt.fr. Notre promesse de confidentialité concernant les tiers Nous examinons les politiques de confidentialité de tous nos fournisseurs tiers avant de faire appel à leurs services pour nous assurer que leurs pratiques s'alignent sur les nôtres. Nous n'inclurons jamais sciemment des services tiers qui compromettent ou violent la confidentialité de nos utilisateurs."
+          }
+        ]
+      },
+      {
+        "title": "Comment vous pouvez contrôler ou refuser les cookies",
+        "content": [
+          {
+            "subtitle": "",
+            "text": "Si vous ne souhaitez pas accepter de cookies de notre part, vous pouvez demander à votre navigateur de refuser les cookies de notre site web. La plupart des navigateurs sont configurés pour accepter les cookies par défaut, mais vous pouvez mettre à jour ces paramètres pour soit refuser complètement les cookies, soit pour vous avertir lorsqu'un site web essaie de définir ou de mettre à jour un cookie. Si vous naviguez sur des sites web à partir de plusieurs appareils, vous devrez peut-être mettre à jour vos paramètres sur chaque appareil individuel. Bien que certains cookies puissent être bloqués avec peu d'impact sur votre expérience d'un site web, bloquer tous les cookies peut signifier que vous ne pourrez pas accéder à certaines fonctionnalités et contenus sur les sites que vous visitez."
+          }
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "heading": {
+      "title": "Politique de confidentialité",
+      "content": "Cette politique est en vigueur à partir du 3 octobre 2024. Votre vie privée est importante pour nous. La politique de Wdrancourt.fr est de respecter votre vie privée concernant toute information que nous pourrions collecter sur vous à travers notre site web, https://wdrancourt.fr, et d'autres sites que nous possédons et exploitons."
+    },
+    "sections": [
+      {
+        "title": "1. Informations que nous collectons :",
+        "content": [
+          {
+            "subtitle": "Données de journal",
+            "text": "Lorsque vous visitez notre site web, nos serveurs peuvent automatiquement enregistrer les données standard fournies par votre navigateur web. Cela peut inclure l'adresse IP de votre ordinateur, le type et la version de votre navigateur, les pages que vous visitez, l'heure et la date de votre visite, le temps passé sur chaque page et d'autres détails."
+          },
+          {
+            "subtitle": "Données de l'appareil",
+            "text": "Nous pouvons également collecter des données sur l'appareil que vous utilisez pour accéder à notre site web. Ces données peuvent inclure le type d'appareil, le système d'exploitation, les identifiants uniques de l'appareil, les paramètres de l'appareil et les données de géolocalisation."
+          },
+          {
+            "subtitle": "Informations personnelles",
+            "text": "Nous pouvons vous demander des informations personnelles, telles que :",
+            "list": [
+              "Nom",
+              "Adresse e-mail",
+              "Localisation général"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Bases légales du traitement :",
+        "content": [
+          {
+            "subtitle": "",
+            "text": "Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi n°78-17 du 6 janvier 1978 modifiée, nous traitons vos informations personnelles de manière licite, loyale et transparente. Nous collectons et traitons des informations vous concernant uniquement lorsque nous avons des bases légales pour le faire"
+          }
+        ]
+      },
+      {
+        "title": "3. Collecte et utilisation des informations :",
+        "content": [
+          {
+            "subtitle": "",
+            "text": "Nous pouvons collecter, détenir, utiliser et divulguer des informations à diverses fins, notamment pour personnaliser votre expérience sur notre site web, vous contacter, et à des fins d'analyse et de marketing. Les données sont conservées pendant toute la durée de la relation établie, et jusqu'à 3 ans maximum après, selon la nature de la relation concernée"
+          }
+        ]
+      },
+      {
+        "title": "4. Divulgation d'informations personnelles à des tiers :",
+        "content": [
+          {
+            "subtitle": "",
+            "text": "Nous pouvons divulguer des informations personnelles à des tiers, tels que des fournisseurs de services, des employés, des autorités réglementaires et des organismes d'application de la loi, conformément à la loi."
+          }
+        ]
+      },
+      {
+        "title": "5. Transferts internationaux de données personnelles :",
+        "content": [
+          {
+            "subtitle": "",
+            "text": "Les données personnelles que nous collectons sont stockées et traitées en France ou là où nous ou nos partenaires, affiliés et fournisseurs tiers maintiennent des installations. Tout transfert de données en dehors de l'Espace Économique Européen (EEE) sera protégé par des garanties appropriées, conformément au RGPD."
+          }
+        ]
+      },
+      {
+        "title": "6. Vos droits et le contrôle de vos informations personnelles :",
+        "content": [
+          {
+            "subtitle": "",
+            "text": "Vous avez le droit d'accéder à vos données personnelles, de les rectifier, de les effacer, de limiter leur traitement, de vous opposer au traitement et à la portabilité des données. Vous pouvez exercer ces droits en nous contactant."
+          }
+        ]
+      },
+      {
+        "title": "7. Cookies",
+        "content": [
+          {
+            "subtitle": "",
+            "text": "Nous utilisons des \"cookies\" pour collecter des informations sur vous et votre activité sur notre site. Veuillez vous référer à notre Politique de Cookies pour plus d'informations."
+          }
+        ]
+      },
+      {
+        "title": "8. Limites de notre politique",
+        "content": [
+          {
+            "subtitle": "",
+            "text": "Notre site web peut contenir des liens vers des sites externes que nous n'exploitons pas. Veuillez noter que nous n'avons aucun contrôle sur le contenu et les politiques de ces sites."
+          }
+        ]
+      },
+      {
+        "title": "9. Modifications de cette politique",
+        "content": [
+          {
+            "subtitle": "",
+            "text": "Nous pouvons modifier cette politique de confidentialité à notre discrétion. Nous vous informerons de tout changement important et, si nécessaire, nous vous demanderons votre consentement."
+          }
+        ]
+      },
+      {
+        "title": "Wdrancourt.fr Responsable du traitement des données :",
+        "content": [
+          {
+            "subtitle": "Drancourt Winny",
+            "text": "Pour toute question concernant cette politique ou vos données personnelles, veuillez nous contacter à contact@wdrancourt.fr ."
+          }
+        ]
+      }
+    ]
+  },
+  "policy": [
+    {
+      "title": "Éditeur du site :",
+      "text": [
+        "Drancourt Winny",
+        "email : contact@wdrancourt.fr"
+      ]
+    },
+    {
+      "title": "Directeur de publication :",
+      "text": [
+        "Drancourt Winny"
+      ]
+    },
+    {
+      "title": "Siret :",
+      "text": [
+        "nº : 418 541 553 000 32",
+        "Naf : 8899B",
+        "Bénéficiaire d’un CAPE jusqu’au 03/10/2025 maximum - Espace des Entrepreneurs"
+      ]
+    },
+    {
+      "title": "Hébergement :",
+      "text": [
+        "O2switch",
+        "Chemin des Pardiaux 63000 Clermont-Ferrand"
+      ]
+    },
+    {
+      "title": "Propriété intellectuelle :",
+      "text": [
+        "L'ensemble de ce site est protégé par les lois sur la propriété intellectuelle. Tous droits réservés."
+      ]
+    }
+  ],
+  "services": {
+    "piliers": [
+      {
+        "title": "Architecture Modulaire",
+        "description": "Des composants indépendants et réutilisables pour une flexibilité maximale.",
+        "iconClass": "text-blue-500"
+      },
+      {
+        "title": "Évolution Progressive",
+        "description": "Une croissance organique de votre plateforme selon vos besoins.",
+        "iconClass": "text-purple-500"
+      },
+      {
+        "title": "Performance Durable",
+        "description": "Des solutions optimisées pour des performances à long terme.",
+        "iconClass": "text-green-500"
+      }
+    ],
+    "domains": [
+      {
+        "title": "Sites Web Complets",
+        "description": "De la vitrine au e-commerce, des solutions sur mesure."
+      },
+      {
+        "title": "Fonctionnalités Spécifiques",
+        "description": "Modules complémentaires pour enrichir votre site."
+      },
+      {
+        "title": "API & Intégrations",
+        "description": "Connexion avec vos outils existants."
+      },
+      {
+        "title": "Tableaux de Bord",
+        "description": "Visualisation et analyse de vos données."
+      }
+    ]
+  }
+}

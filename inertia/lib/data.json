@@ -1,0 +1,45 @@
+{
+  "classData": {
+    "title": "text-6xl lg:text-8xl font-bold font-title italic",
+    "subTitle": "font-subtitle font-bold",
+    "bottomContainer": "flex flex-col justify-center items-center gap-10 p-4 lg:w-1/4 text-center",
+    "icon": "w-10 h-10 text-foreground"
+  },
+  "menuData": [
+    {
+      "number": "01",
+      "name": "A propos",
+      "label": "A propos",
+      "link": "/about",
+      "title": "En savoir plus sur Winny Drancourt"
+    },
+    {
+      "number": "02",
+      "name": "Services",
+      "label": "Services",
+      "link": "/services",
+      "title": "Services de dévelopment web proposé"
+    },
+    {
+      "number": "03",
+      "name": "Contact",
+      "label": "Contact",
+      "link": "/contact",
+      "title": "Contact pour votre projet d'outils numérique"
+    }
+  ],
+  "linkData": [
+    {
+      "label": "Email",
+      "href": "mailto:contact@wdrancourt.fr"
+    },
+    {
+      "label": "Linkedin",
+      "href": "https://www.linkedin.com/in/winny-drancourt/"
+    },
+    {
+      "label": "GitHub",
+      "href": "https://github.com/WinnyDrancourt"
+    }
+  ]
+}

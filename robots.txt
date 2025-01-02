@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Bloquer les pages administratives
+Disallow: /dashboard/
+
+# Déclaration du sitemap
+Sitemap: https://wdrancourt.fr/sitemap.xml
