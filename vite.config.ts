@@ -28,7 +28,7 @@ export default defineConfig({
       plugins: [tailwind(), autoprefixer()],
     },
   },
-
+  
   /**
    * Define aliases for importing modules from
    * your frontend code

@@ -19,7 +19,7 @@ const { portrait, mascotteWelcome } = mascotte
         />
       </div>
       <div
-        class="bg-foreground border border-[#14D1D9] rounded-md shadow-[inset_0px_0px_20px_5px_rgba(20,_209,_217,_0.5)] -mt-1 lg:mt-0 lg:pt-0 lg:-ml-44 -z-10 flex items-center justify-end flex-1"
+        class="bg-foreground border border-[#14D1D9] rounded-md shadow-[inset_0px_0px_20px_5px_rgba(20,_209,_217,_0.5)] -mt-1 lg:mt-0 lg:pt-0 lg:-ml-10 -z-10 flex items-center justify-end flex-1"
       >
         <Motion is="p" preset="slideVisibleLeft" class="p-4 text-xl lg:text-end text-background">
           {{ adata.me[0] }}

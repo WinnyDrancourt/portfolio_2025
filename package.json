@@ -5,7 +5,7 @@
   "type": "module",
   "license": "UNLICENSED",
   "scripts": {
-    "start": "node bin/server.js",
+    "start": "NODE_OPTIONS='--no-warnings' node bin/server.js",
     "build": "node ace build",
     "dev": "node ace serve --hmr",
     "test": "node ace test",
@@ -70,6 +70,7 @@
     "gsap": "^3.12.5",
     "lucide-vue-next": "^0.461.0",
     "luxon": "^3.5.0",
+    "micromatch": "^4.0.8",
     "pg": "^8.13.1",
     "radix-vue": "^1.9.10",
     "reflect-metadata": "^0.2.2",
