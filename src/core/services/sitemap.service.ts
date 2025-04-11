@@ -8,7 +8,7 @@ interface SitemapRoute {
 }
 
 export class SitemapService {
-  private baseUrl = env.get('APP_URL')
+  private baseUrl = env.get('SITE_URL')
 
   private getRoutes(): SitemapRoute[] {
     return [

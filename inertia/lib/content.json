@@ -80,11 +80,7 @@
           {
             "subtitle": "Informations personnelles",
             "text": "Nous pouvons vous demander des informations personnelles, telles que :",
-            "list": [
-              "Nom",
-              "Adresse e-mail",
-              "Localisation général"
-            ]
+            "list": ["Nom", "Adresse e-mail", "Localisation général"]
           }
         ]
       },
@@ -174,31 +170,19 @@
   "policy": [
     {
       "title": "Éditeur du site :",
-      "text": [
-        "Drancourt Winny",
-        "email : contact@wdrancourt.fr"
-      ]
+      "text": ["Drancourt Winny", "email : contact@wdrancourt.fr"]
     },
     {
       "title": "Directeur de publication :",
-      "text": [
-        "Drancourt Winny"
-      ]
+      "text": ["Drancourt Winny"]
     },
     {
       "title": "Siret :",
-      "text": [
-        "nº : 418 541 553 000 32",
-        "Naf : 8899B",
-        "Bénéficiaire d’un CAPE jusqu’au 03/10/2025 maximum - Espace des Entrepreneurs"
-      ]
+      "text": ["nº : 941 956 039 000 15", "Naf : 6201Z"]
     },
     {
       "title": "Hébergement :",
-      "text": [
-        "O2switch",
-        "Chemin des Pardiaux 63000 Clermont-Ferrand"
-      ]
+      "text": ["O2switch", "Chemin des Pardiaux 63000 Clermont-Ferrand"]
     },
     {
       "title": "Propriété intellectuelle :",
@@ -245,3 +229,4 @@
     ]
   }
 }
+
